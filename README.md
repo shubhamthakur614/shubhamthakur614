@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [E-commerce web](https://github.com/shubhamthakur614/Ecommerce-Web)
 
-- 🌱 I’m currently learning **Microservices,Ionic,Kubernetes**
+- 🌱 I’m currently learning **Microservices,Docker,Kubernetes,AWS,CICD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamthakur614](https://github.com/shubhamthakur614)
 
